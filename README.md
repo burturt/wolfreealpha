@@ -1,10 +1,18 @@
 # Wol[free](https://wolfreealpha.github.io/)Alpha
+> Get FREE access to Wolfram|Alpha Pro. Unlock full step-by-step solutions for everyone.
+
 ## Free Wolfram|Alpha Step-by-Step Solutions
 - [**Try it now**](https://wolfreealpha.github.io/), it's gratis!
-- Unlock/Receive FREE unlimited access to [Wolfram|Alpha's full Step-by-step solutions](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions/).
-- Facilitate the use of [Wolfram|Alpha Show Steps API](https://products.wolframalpha.com/show-steps-api/documentation/).
+- Unlock FREE access to Wolfram|Alpha's full [Step-by-Step Solutions](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions/).
+- Facilitate the use of Wolfram|Alpha [Show Steps API](https://products.wolframalpha.com/show-steps-api/documentation/).
 
-## Examples
+## Contributing
+[OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow#detailed-description) with `master` [substituted](https://github.com/github/renaming) for `main`
+
+## License
+[MIT License](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io/blob/main/LICENSE)
+
+## Usage Examples
 
 #### Differential Equations
 ###### Separable Equations
