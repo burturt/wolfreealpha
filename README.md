@@ -6,7 +6,7 @@
 - Facilitate the use of [Wolfram|Alpha Show Steps API](https://products.wolframalpha.com/show-steps-api/documentation/).
 
 #### Contributing
-- [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow#detailed-description) with `master` [substituted](https://github.com/github/renaming) for `main`
+- [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow#detailed-description)
 
 #### License
 - [MIT License](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io/blob/main/LICENSE)
