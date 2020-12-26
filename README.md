@@ -14,16 +14,6 @@
 
 # Examples
 
-## Calculus
-Find the derivative using the product rule, chain rule and other methods:  
-[derivative of x^4 + 9x^3 + 7x - 2](https://wolfreealpha.github.io/#derivative%20of%20x%5E4%20%2B%209x%5E3%20%2B%207x%20%2d%202)  
-Calculate an integral by substitution, integration by parts and other methods:  
-[integrate sin(x)cos(x)^2](https://wolfreealpha.github.io/#integrate%20sin%28x%29cos%28x%29%5E2)  
-Learn how to take a limit:  
-[limit of (x - 3) / (x^2 - 2x - 3) as x approaches 3](https://wolfreealpha.github.io/#limit%20of%20%28x%20%2d%203%29%20%2F%20%28x%5E2%20%2d%202x%20%2d%203%29%20as%20x%20approaches%203)  
-Find local and global extrema using a variety of tests:  
-[find the extrema of 3x^4 - 4x^3 - 12x^2 + 1](https://wolfreealpha.github.io/#find%20the%20extrema%20of%203x%5E4%20%2d%204x%5E3%20%2d%2012x%5E2%20%2B%201)
-
 ## Differential Equations
 See how separable equations are solved:  
 [solve y' = y^2 x](https://wolfreealpha.github.io/#solve%20y%27%20%3D%20y%5E2%20x)  
@@ -93,6 +83,54 @@ See the steps for higher-order equations:
 [y''' - y'' + y' - y = cosh(x)](https://wolfreealpha.github.io/#y%27%27%27%20%2d%20y%27%27%20%2B%20y%27%20%2d%20y%20%3D%20cosh%28x%29)  
 [y''''''(t) - 4y'''''(t) + 7y''''(t) - 4y'''(t) - 4y''(t) + 8y'(t) - 4y(t) = 0](https://wolfreealpha.github.io/#y%27%27%27%27%27%27%28t%29%20%2d%204y%27%27%27%27%27%28t%29%20%2B%207y%27%27%27%27%28t%29%20%2d%204y%27%27%27%28t%29%20%2d%204y%27%27%28t%29%20%2B%208y%27%28t%29%20%2d%204y%28t%29%20%3D%200)
 
+## Calculus
+Find the derivative using the product rule, chain rule and other methods:  
+[d/dx sqrt(x)](https://wolfreealpha.github.io/#d%2Fdx%20sqrt%28x%29)  
+[derivative of x^4 + 9x^3 + 7x - 2](https://wolfreealpha.github.io/#derivative%20of%20x%5E4%20%2B%209x%5E3%20%2B%207x%20%2d%202)  
+[slope of log(t) / (t^2 + 1)](https://wolfreealpha.github.io/#slope%20of%20log%28t%29%20%2F%20%28t%5E2%20%2B%201%29)  
+Find partial derivatives of multivariate expressions:  
+[partial derivative of exp(-x^2 - y^2)](https://wolfreealpha.github.io/#partial%20derivative%20of%20exp%28%2dx%5E2%20%2d%20y%5E2%29)  
+[partial derivative of cos( 3 pi /4 * x + 5 pi /3 * y + pi / 2 * z) with respect to y](https://wolfreealpha.github.io/#partial%20derivative%20of%20cos%28%203%20pi%20%2F4%20%2a%20x%20%2B%205%20pi%20%2F3%20%2a%20y%20%2B%20pi%20%2F%202%20%2a%20z%29%20with%20respect%20to%20y)  
+Calculate an indefinite integral by substitution, integration by parts and other methods:  
+[integrate sin(x)cos(x)^2](https://wolfreealpha.github.io/#integrate%20sin%28x%29cos%28x%29%5E2)  
+[integral of sqrt(a^2 - x^2)](https://wolfreealpha.github.io/#integral%20of%20sqrt%28a%5E2%20%2d%20x%5E2%29)  
+[show the integration: arcsec(sqrt(t))](https://wolfreealpha.github.io/#show%20the%20integration%3A%20arcsec%28sqrt%28t%29%29)  
+See the steps for definite integration over an interval:  
+[integrate sin(t)^2cos(t) from 0 to pi/2](https://wolfreealpha.github.io/#integrate%20sin%28t%29%5E2cos%28t%29%20from%200%20to%20pi%2F2)  
+[integrate 1/(x^2 + 1), x = -infinity ... infinity](https://wolfreealpha.github.io/#integrate%201%2F%28x%5E2%20%2B%201%29%2C%20x%20%3D%20%2dinfinity%20%2e%2e%2e%20infinity)  
+[integrate 1/(cos(x) + 2) from 0 to 2pi](https://wolfreealpha.github.io/#integrate%201%2F%28cos%28x%29%20%2B%202%29%20from%200%20to%202pi)  
+Learn how to take a limit:  
+[limit of (x - 3) / (x^2 - 2x - 3) as x approaches 3](https://wolfreealpha.github.io/#limit%20of%20%28x%20%2d%203%29%20%2F%20%28x%5E2%20%2d%202x%20%2d%203%29%20as%20x%20approaches%203)  
+[take the limit as x goes to infinity: (1 + 1/x)^x](https://wolfreealpha.github.io/#take%20the%20limit%20as%20x%20goes%20to%20infinity%3A%20%281%20%2B%201%2Fx%29%5Ex)  
+[limit t\*tan(t) as t->pi/2 from the left](https://wolfreealpha.github.io/#limit%20t%2atan%28t%29%20as%20t%2d%3Epi%2F2%20from%20the%20left)  
+[lim (x^2 + 2x + 3)/(x^2 - 2x - 3) as x->3+](https://wolfreealpha.github.io/#lim%20%28x%5E2%20%2B%202x%20%2B%203%29%2F%28x%5E2%20%2d%202x%20%2d%203%29%20as%20x%2d%3E3%2B)  
+Find local and global extrema using a variety of tests:  
+[local extrema of x^3 - 3x + 1](https://wolfreealpha.github.io/#local%20extrema%20of%20x%5E3%20%2d%203x%20%2B%201)  
+[find the extrema of 3x^4 - 4x^3 - 12x^2 + 1](https://wolfreealpha.github.io/#find%20the%20extrema%20of%203x%5E4%20%2d%204x%5E3%20%2d%2012x%5E2%20%2B%201)  
+[maximize sin(x)](https://wolfreealpha.github.io/#maximize%20sin%28x%29)  
+Find a tangent line to a curve using the derivative at a point:  
+[tangent line to sin(x) - 1 at x=0](https://wolfreealpha.github.io/#tangent%20line%20to%20sin%28x%29%20%2d%201%20at%20x%3D0)  
+[tangent line of y=x^2 at x=1](https://wolfreealpha.github.io/#tangent%20line%20of%20y%3Dx%5E2%20at%20x%3D1)  
+Calculate a multivariate tangent plane by examining partial derivatives:  
+[tangent plane to z=x^2+y^2 at x=1,y=1](https://wolfreealpha.github.io/#tangent%20plane%20to%20z%3Dx%5E2%2By%5E2%20at%20x%3D1%2Cy%3D1)  
+Get hints for discontinuities:  
+[where is (x^2 - 4)/(x^2 - 2x - 3) discontinuous?](https://wolfreealpha.github.io/#where%20is%20%28x%5E2%20%2d%204%29%2F%28x%5E2%20%2d%202x%20%2d%203%29%20discontinuous%3F)  
+[discontinuities of sin((x^2-x)/(x-1)) + log(sqrt(abs(x)))](https://wolfreealpha.github.io/#discontinuities%20of%20sin%28%28x%5E2%2dx%29%2F%28x%2d1%29%29%20%2B%20log%28sqrt%28abs%28x%29%29%29)  
+Calculate inflection points step by step:  
+[inflection points x^3 - 3 x^2 + 1](https://wolfreealpha.github.io/#inflection%20points%20x%5E3%20%2d%203%20x%5E2%20%2B%201)  
+[points of inflection t * cbrt(t^2 - 4)](https://wolfreealpha.github.io/#points%20of%20inflection%20t%20%2a%20cbrt%28t%5E2%20%2d%204%29)  
+[inflection points of 3sin(2x)](https://wolfreealpha.github.io/#inflection%20points%20of%203sin%282x%29)  
+[inflection pts sgn(x)|x|^(3/2) + x^3 - 3x^2 + 1 over -2 < x < 3](https://wolfreealpha.github.io/#inflection%20pts%20sgn%28x%29%7Cx%7C%5E%283%2F2%29%20%2B%20x%5E3%20%2d%203x%5E2%20%2B%201%20over%20%2d2%20%3C%20x%20%3C%203)  
+Learn how to compute the area between curves:  
+[area between 1/2x(x-2)(x+2) and x](https://wolfreealpha.github.io/#area%20between%201%2F2x%28x%2d2%29%28x%2B2%29%20and%20x)  
+[area of the region between y=x and y=x^2 for -1/2<x<1](https://wolfreealpha.github.io/#area%20of%20the%20region%20between%20y%3Dx%20and%20y%3Dx%5E2%20for%20%2d1%2F2%3Cx%3C1)  
+Calculate the arc length of a curve step by step:  
+[arc length of Sin\[x\] for x between 0 and 2pi](https://wolfreealpha.github.io/#arc%20length%20of%20Sin%5Bx%5D%20for%20x%20between%200%20and%202pi)  
+Specify the curve in polar coordinates:  
+[arc length of r=theta^2 for 0<theta<2pi](https://wolfreealpha.github.io/#arc%20length%20of%20r%3Dtheta%5E2%20for%200%3Ctheta%3C2pi)  
+Specify the curve parametrically:  
+[arc length of {Sin\[x\], Cos\[x\], x, x} for 0<x<3pi](https://wolfreealpha.github.io/#arc%20length%20of%20%7BSin%5Bx%5D%2C%20Cos%5Bx%5D%2C%20x%2C%20x%7D%20for%200%3Cx%3C3pi)
+
 ## Proofs
 See the steps toward proving a trigonometric identity:  
 [(1 + tan(x))/(1 - tan(x)) = (cos(x) + sin(x))/(cos(x) - sin(x))](https://wolfreealpha.github.io/#%281%20%2B%20tan%28x%29%29%2F%281%20%2d%20tan%28x%29%29%20%3D%20%28cos%28x%29%20%2B%20sin%28x%29%29%2F%28cos%28x%29%20%2d%20sin%28x%29%29)  
@@ -158,31 +196,25 @@ Compute oxidation states of chemicals:
 [oxidation states of chromium(III) chloride](https://wolfreealpha.github.io/#oxidation%20states%20of%20chromium%28III%29%20chloride)
 
 ## Physics Formulas
-Explore the physical laws that describe the behavior of one or more bodies under a system of forces.  
 Compute mechanical work:  
 [work F=30N, d=100m](https://wolfreealpha.github.io/#work%20F%3D30N%2C%20d%3D100m)  
 Compute centripetal acceleration:  
 [centripetal acceleration, 30mph, 500 ft](https://wolfreealpha.github.io/#centripetal%20acceleration%2C%2030mph%2C%20500%20ft)  
-Explore oscillatory motion, from pendulums to electromagnetic waves.  
 Compute a Doppler shift:  
 [Doppler shift 300Hz, 75mph](https://wolfreealpha.github.io/#Doppler%20shift%20300Hz%2C%2075mph)  
-Study the properties and behaviors of light.  
 Do computations using the thin lens equation:  
 [lens, f=20ft, o=400ft](https://wolfreealpha.github.io/#lens%2C%20f%3D20ft%2C%20o%3D400ft)  
 Compute a diffraction pattern for a circular aperture:  
 [circular aperture a=0.2mm, lambda=650nm](https://wolfreealpha.github.io/#circular%20aperture%20a%3D0%2e2mm%2C%20lambda%3D650nm)  
 Compute a diffraction pattern for a single slit:  
 [single slit diffraction d=1/16 inch, lambda=200nm](https://wolfreealpha.github.io/#single%20slit%20diffraction%20d%3D1%2F16%20inch%2C%20lambda%3D200nm)  
-Explore Einstein's theories of special and general relativity and how they relate to gravity, time and space.  
 Do relativistic addition of velocities:  
 [add velocities, 8e7 m/s, 8e7 m/s](https://wolfreealpha.github.io/#add%20velocities%2C%208e7%20m%2Fs%2C%208e7%20m%2Fs)  
 Compute relativistic momentum:  
 [relativistic momentum electron, 0.8c](https://wolfreealpha.github.io/#relativistic%20momentum%20electron%2C%200%2e8c)  
 Determine gravitational time dilation near massive objects:  
 [gravitational time dilation at 1000 km and 100 solar masses](https://wolfreealpha.github.io/#gravitational%20time%20dilation%20at%201000%20km%20and%20100%20solar%20masses)  
-Explore the nature of celestial objects, including black holes, stars and planets.  
 Compute the orbital period of a massive body orbiting another:  
 [Kepler's third law, 4 solar masses, 5 Earth masses, 2.5 AU](https://wolfreealpha.github.io/#Kepler%27s%20third%20law%2C%204%20solar%20masses%2C%205%20Earth%20masses%2C%202%2e5%20AU)  
-Examine the behavior of fluid systems and objects moving through them.  
 Calculate flow through a pipe:  
 [water flow through a pipe 4" diameter](https://wolfreealpha.github.io/#water%20flow%20through%20a%20pipe%204%22%20diameter)
