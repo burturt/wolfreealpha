@@ -13,6 +13,8 @@
 - [MIT License](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io/blob/main/LICENSE)
 
 # Examples
+Two-Dimensional Expression Input Interpretation:  
+[lim_(n->inf) (1 + i/n)^n = sum_(n=0)^inf i^n/n! = int_(-inf)^i e^t dt = e^sqr(-1)](https://www.wolframalpha.com/input/?i=lim_%28n-%3Einf%29+%281+%2B+i%2Fn%29%5En+%3D+sum_%28n%3D0%29%5Einf+i%5En%2Fn%21+%3D+int_%28-inf%29%5Ei+e%5Et+dt+%3D+e%5Esqr%28-1%29)
 
 ## Differential Equations
 See how separable equations are solved:  
