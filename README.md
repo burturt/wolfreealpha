@@ -14,7 +14,8 @@
 
 # Examples
 Two-Dimensional Expression Input Interpretation:  
-[lim_(n->inf) (1 + i/n)^n = sum_(n=0)^inf i^n/n! = int_(-inf)^i e^t dt = e^sqr(-1)](https://www.wolframalpha.com/input/?i=lim_%28n-%3Einf%29+%281+%2B+i%2Fn%29%5En+%3D+sum_%28n%3D0%29%5Einf+i%5En%2Fn%21+%3D+int_%28-inf%29%5Ei+e%5Et+dt+%3D+e%5Esqr%28-1%29)
+[lim_n->inf (1+i/n)^n = sum_n=0^inf i^n/n! = int_-inf^i e^tdt = e^sqr-1](https://wolfreealpha.github.io/#lim%5fn%2d%3Einf%20%281%2Bi%2Fn%29%5En%20%3D%20sum%5fn%3D0%5Einf%20i%5En%2Fn%21%20%3D%20int%5f%2dinf%5Ei%20e%5Etdt%20%3D%20e%5Esqr%2d1)  
+Subscripts are typeset with the underscore, while superscripts are made with the caret.
 
 ## Differential Equations
 See how separable equations are solved:  
