@@ -13,8 +13,8 @@
 - [MIT License](https://github.com/WolfreeAlpha/WolfreeAlpha.github.io/blob/main/LICENSE)
 
 # Examples
-Two-Dimensional Expression Input Interpretation:  
-[lim_n->inf (1+i/n)^n = sum_n=0^inf i^n/n! = int_-inf^i e^tdt = e^sqr-1](https://wolfreealpha.github.io/#lim%5fn%2d%3Einf%20%281%2Bi%2Fn%29%5En%20%3D%20sum%5fn%3D0%5Einf%20i%5En%2Fn%21%20%3D%20int%5f%2dinf%5Ei%20e%5Etdt%20%3D%20e%5Esqr%2d1)  
+Two-Dimensional Expression Input:  
+[lim_n->inf (1+i/n)^n = int_-inf^i e^tdt = sum_n=0^inf i^n/n! = e^sqr-1](https://wolfreealpha.github.io/#lim%5fn%2d%3Einf%20%281%2Bi%2Fn%29%5En%20%3D%20int%5f%2dinf%5Ei%20e%5Etdt%20%3D%20sum%5fn%3D0%5Einf%20i%5En%2Fn%21%20%3D%20e%5Esqr%2d1)  
 Subscripts are typeset with the underscore, while superscripts are made with the caret.
 
 ## Differential Equations
